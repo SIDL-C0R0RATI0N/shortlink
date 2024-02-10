@@ -1,0 +1,2 @@
+# shortlink
+Plugin ShortLink cPanel
